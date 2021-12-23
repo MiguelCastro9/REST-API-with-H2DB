@@ -1,4 +1,4 @@
-# Endpoint REST 
+# Overview
 
 Development of a REST endpoint using H2-database and Spring Boot.
 
